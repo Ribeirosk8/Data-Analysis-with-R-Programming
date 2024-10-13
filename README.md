@@ -30,8 +30,9 @@ For this penguin data, the culmen (bill) length and depth are measured as shown 
 
 penguins_bill_length.csv - Modified palmer penguins dataset
 
-Penguin species: 
-Adelie | Chinstrap | Gentoo
+Meet Penguin species: 
+Chinstrap | Gentoo | Adelie 
+![Penguin species](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/lter_penguins.png)
 
 bill_length_mm: Penguin bill length in millimeters
 bill_mass_mm: Penguin body mass in grams
