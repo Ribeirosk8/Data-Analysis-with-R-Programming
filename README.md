@@ -1,5 +1,6 @@
 # **Data Analysis with R Programming**
 ---
+_Let's start by loading a dataset to work with. We can use the palmer penguins dataset, which contains size measurements for three penguin species that live on the Palmer Archipelago in Antarctica. This includes data on stuff like body mass, flipper length and bill length. The dataset has 344 rows of information sorted into eight columns. The palmer penguins data is popular with analysts and is great for fun exploration, visualization and teaching concepts_.
 
 ## 🐧Introduction to R script and example modified palmer penguins dataset
 
