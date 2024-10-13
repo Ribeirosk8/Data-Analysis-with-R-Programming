@@ -3,9 +3,9 @@
 
 #🐧 Introduction to R script and example modified palmer penguins dataset
 
-![Relationship between bill length and depth]([https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot2.png])
+![Relationship between bill length and depth](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot2.png)
 
-![Penguins Species]([[https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot2.png])
+![Penguins Species](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot2.png)
 
 Contains
 
