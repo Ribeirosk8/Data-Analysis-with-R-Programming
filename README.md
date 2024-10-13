@@ -20,6 +20,13 @@ _Let's start by loading a dataset to work with. We can use the palmer penguins d
 ![Palmer Penguins: Body Mass vs. Flipper Length](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot3.png)
 
 Contains
+Bill dimensions
+The culmen is the upper ridge of a bird’s bill. In the simplified penguins data, culmen length and depth are renamed as variables bill_length_mm and bill_depth_mm to be more intuitive.
+
+For this penguin data, the culmen (bill) length and depth are measured as shown below :
+![culmen_depth](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/culmen_depth.png)
+
+
 
 penguins_bill_length.csv - Modified palmer penguins dataset
 
