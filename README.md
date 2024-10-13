@@ -14,7 +14,7 @@ _Let's start by loading a dataset to work with. We can use the palmer penguins d
 
 ### Palmer Penguins: Body Mass vs. Flipper Length
 
-![Palmer Penguins: Body Mass vs. Flipper Length](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/palmer-penguins-dataset/Rplot3.png)
+![Palmer Penguins: Body Mass vs. Flipper Length](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/Rplot3.png)
 
 Contains
 
