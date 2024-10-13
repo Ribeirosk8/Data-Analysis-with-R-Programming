@@ -1,6 +1,7 @@
 # Setup required packages
 # Penguins dataset
 install.packages("palmerpenguins", dependencies = TRUE)
+install.packages("tidyverse")
 
 # HTML tables
 install.packages("formattable")
@@ -8,7 +9,7 @@ install.packages("formattable")
 # Load all required packages
 library(palmerpenguins)
 library(formattable)
-
+library(tidyverse)
 
 
 # Load and examine data
