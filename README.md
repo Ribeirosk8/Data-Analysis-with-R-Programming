@@ -1,7 +1,7 @@
 # **Data Analysis with R Programming**
 ---
 
-##🐧 Introduction to R script and example modified palmer penguins dataset
+## 🐧Introduction to R script and example modified palmer penguins dataset
 
 ### Penguins Species
 
